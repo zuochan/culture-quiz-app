@@ -1,3 +1,11 @@
+了解しました！
+以下が、完全に整えられた最新版の README.md です。
+すべてのコードブロック、見出し、レイアウト、リンク形式がMarkdownに準拠していますので、そのままコピペ＆保存でOKです✅
+
+⸻
+
+
+
 # 🧠 Gesture Culture Quiz App
 
 A simple and fun web app that challenges users to guess which culture — Japan or Sweden — a given gesture or habit belongs to.  
@@ -13,10 +21,10 @@ Coming soon: [Streamlit Cloud Link]()
 
 ## 🎯 Features
 
-- ✅ Random gesture-based multiple-choice quizzes
-- ✅ Immediate feedback with explanations
-- ✅ Score tracking across sessions
-- ✅ No repeated questions until all have been answered
+- ✅ Random gesture-based multiple-choice quizzes  
+- ✅ Immediate feedback with explanations  
+- ✅ Score tracking across sessions  
+- ✅ No repeated questions until all have been answered  
 - ✅ Option to restart the quiz
 
 ---
@@ -32,6 +40,7 @@ Coming soon: [Streamlit Cloud Link]()
 
 ## 📁 Project Structure
 
+```text
 culture-quiz-app/
 ├── app.py                  # Main app code
 ├── data/
@@ -39,7 +48,7 @@ culture-quiz-app/
 ├── requirements.txt        # Python dependencies
 ├── .gitignore              # Ignored files
 └── README.md               # This file
-
+```
 ---
 
 ## ▶️ Getting Started
@@ -47,33 +56,40 @@ culture-quiz-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/culture-quiz-app.git
+git clone https://github.com/zuochan/culture-quiz-app.git
 cd culture-quiz-app
+```
 
-2. Set up a virtual environment (optional but recommended)
+### 2. Set up a virtual environment (optional but recommended)
 
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
-3. Install dependencies
+### 3. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-4. Run the app
+### 4. Run the app
 
+```bash
 streamlit run app.py
+```
 
-Then open the browser to view the app (should launch automatically).
+The app will automatically open in your browser.
 
-⸻
+---
 
-✍️ Customize Your Quiz
+## ✍️ Customize Your Quiz
 
-You can add more cultural gestures by editing the file:
+You can add more cultural gestures by editing the quiz data file:
 
 data/gestures.json
 
-Each question follows this structure:
+Each question should follow this structure:
 
 {
   "gesture": "Example gesture here",
@@ -83,31 +99,28 @@ Each question follows this structure:
   "explanation": "Brief explanation of the cultural context."
 }
 
+---
 
+## 📚 Inspiration
 
-⸻
-
-📚 Inspiration
-
-This project was created as a personal portfolio and a learning tool to explore both cross-cultural understanding and full-stack development using Python.
-
-⸻
-
-🙋 About the Creator
-
-🇯🇵 A Japanese developer currently living in Sweden on a working holiday visa.
-Interested in language learning, cultural exchange, and building fun & educational tech tools.
-
-⸻
-
-📬 Contact
-	•	GitHub: @zuochan
-	•	LinkedIn: linkedin.com/in/mizuho-kawasaki-76245b2b8
-
-⸻
-
-🪄 License
-
-This project is open source and available under the MIT License.
+This project was created as part of a personal portfolio to explore cultural differences through technology.
+It combines cross-cultural learning with hands-on full-stack development using Python and Streamlit.
 
 ---
+
+## 🙋 About the Creator
+
+## 🇯🇵 A Japanese developer currently living in Sweden on a working holiday visa.
+Passionate about language learning, cultural exchange, and creating fun educational tools through code.
+
+---
+
+## 📬 Contact
+	•	GitHub: @zuochan
+	•	LinkedIn: Mizuho Kawasaki
+
+---
+
+## 🪄 License
+
+This project is open source and available under the MIT License.
