@@ -7,7 +7,7 @@ Built with **Python** and **Streamlit**, this project blends language learning, 
 
 ## 🚀 Demo
 
-Coming soon: [Streamlit Cloud Link]()
+Try the live app here: [Gesture Culture Quiz on Streamlit](https://culture-quiz-app-hvmlhopx66yvcet6jwwcax.streamlit.app/)
 
 ---
 
