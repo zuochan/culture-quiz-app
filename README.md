@@ -1,11 +1,3 @@
-了解しました！
-以下が、完全に整えられた最新版の README.md です。
-すべてのコードブロック、見出し、レイアウト、リンク形式がMarkdownに準拠していますので、そのままコピペ＆保存でOKです✅
-
-⸻
-
-
-
 # 🧠 Gesture Culture Quiz App
 
 A simple and fun web app that challenges users to guess which culture — Japan or Sweden — a given gesture or habit belongs to.  
