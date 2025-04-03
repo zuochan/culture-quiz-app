@@ -1,0 +1,51 @@
+[
+    {
+      "gesture": "Taking off shoes when entering a home",
+      "question": "Which culture does this gesture most commonly belong to?",
+      "options": ["Japan", "Sweden"],
+      "answer": "Japan",
+      "explanation": "In Japan, taking off shoes at the entrance is standard. In Sweden, it's common but more flexible."
+    },
+    {
+      "gesture": "Having daily Fika with coffee and pastries",
+      "question": "Which culture is this gesture from?",
+      "options": ["Japan", "Sweden"],
+      "answer": "Sweden",
+      "explanation": "Fika is a Swedish cultural tradition of taking breaks with coffee and sweets."
+    },
+    {
+        "gesture": "Bowing when greeting someone",
+        "question": "Which culture uses bowing as a common form of greeting?",
+        "options": ["Japan", "Sweden"],
+        "answer": "Japan",
+        "explanation": "In Japan, bowing is a deeply ingrained gesture of respect, used in both formal and casual settings."
+      },
+      {
+        "gesture": "Saying 'hej' even to strangers on the street",
+        "question": "Which culture commonly greets strangers casually in daily life?",
+        "options": ["Japan", "Sweden"],
+        "answer": "Sweden",
+        "explanation": "In Sweden, it's normal to say 'hej' to people you pass, especially in smaller towns. In Japan, strangers rarely greet each other this way."
+      },
+      {
+        "gesture": "Removing masks when not sick",
+        "question": "In which culture is mask-wearing mainly for illness prevention and not worn casually?",
+        "options": ["Japan", "Sweden"],
+        "answer": "Sweden",
+        "explanation": "In Sweden, wearing masks outside of medical contexts is unusual. In Japan, many people wear masks regularly, even when healthy."
+      },
+      {
+        "gesture": "Eating quietly without talking",
+        "question": "Which culture encourages silent meals, especially in public?",
+        "options": ["Japan", "Sweden"],
+        "answer": "Japan",
+        "explanation": "Japanese etiquette often values quiet, especially while eating in public places like trains or cafes."
+      },
+      {
+        "gesture": "Taking long parental leave for both parents",
+        "question": "Which culture strongly supports parental leave for both mothers and fathers?",
+        "options": ["Japan", "Sweden"],
+        "answer": "Sweden",
+        "explanation": "Sweden has one of the world's most generous and gender-equal parental leave systems."
+      }
+  ]
