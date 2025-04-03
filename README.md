@@ -1,11 +1,3 @@
-お任せください！
-こちらがあなたのGesture Culture Quiz アプリにぴったりの、英語版 README テンプレートです ✨
-必要な部分は適宜書き換えて使ってください。
-
-⸻
-
-📄 README.md テンプレート（英語）
-
 # 🧠 Gesture Culture Quiz App
 
 A simple and fun web app that challenges users to guess which culture — Japan or Sweden — a given gesture or habit belongs to.  
